@@ -1,0 +1,14 @@
+Error adding vehicle: Input string was not in a correct format.
+
+Error adding vehicle: Input string was not in a correct format.
+30/12/2024 18:39:41 _ Ferry full. Vehicle details: {newNode.Details()} 
+30/12/2024 19:32:58 _ Ferry full. Vehicle details: {newNode.Details()} 
+An unexpected error occurred while examining the vehicle: Ferry is empty.
+30/12/2024 22:44:59 _ Ferry full. Vehicle details: {newNode.Details()} 
+Error adding vehicle: Input string was not in a correct format.
+Error adding vehicle: Input string was not in a correct format.
+Error adding vehicle: Input string was not in a correct format.
+Error adding vehicle: Input string was not in a correct format.
+Error adding vehicle: Input string was not in a correct format.
+Error adding vehicle: Input string was not in a correct format.
+04/01/2025 17:41:53 _ Ferry full. Vehicle details: {newNode.Details()} 
